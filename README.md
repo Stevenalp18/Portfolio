@@ -4,7 +4,7 @@ Hey Reader,
 
 Welcome to my Personal Portfolio.
 
-This is my <a href="www.Stevenalp18.com">personal website</a> with my own personal domain and soon-to-be portfolio with my projects listed.
+This is my [personal website]("www.Stevenalp18.com") with my own personal domain and soon-to-be portfolio with my projects listed.
 
 I am a self taught web developer and am pursuing to become a full-time web developer within the next year or so.
 
